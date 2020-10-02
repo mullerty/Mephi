@@ -1,0 +1,21 @@
+﻿  test.cpp
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(211,10): error C2374: tmp: переопределение; множественная инициализация
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(205): message : см. объявление "tmp"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(214,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Users\Amr\source\repos\Lab2_class\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h(281,18): message : см. объявление "testing::AssertionResult"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(217,10): error C2374: tmp: переопределение; множественная инициализация
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(205): message : см. объявление "tmp"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(220,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Users\Amr\source\repos\Lab2_class\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h(281,18): message : см. объявление "testing::AssertionResult"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(225,10): error C2374: tmp: переопределение; множественная инициализация
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(205): message : см. объявление "tmp"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(228,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Users\Amr\source\repos\Lab2_class\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h(281,18): message : см. объявление "testing::AssertionResult"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(231,10): error C2374: tmp: переопределение; множественная инициализация
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(205): message : см. объявление "tmp"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(234,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Users\Amr\source\repos\Lab2_class\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h(281,18): message : см. объявление "testing::AssertionResult"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(237,10): error C2374: tmp: переопределение; множественная инициализация
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(205): message : см. объявление "tmp"
+C:\Users\Amr\source\repos\Lab2_class\Test2\test.cpp(240,5): error C2512: testing::AssertionResult: нет подходящего конструктора по умолчанию
+C:\Users\Amr\source\repos\Lab2_class\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.3\build\native\include\gtest\gtest.h(281,18): message : см. объявление "testing::AssertionResult"
