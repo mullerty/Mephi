@@ -1,0 +1,5 @@
+﻿  Prog3.cpp
+  main.cpp
+  Создание кода...
+C:\Users\Amr\Desktop\Lab3\Lab3\Prog3.cpp(65): warning C4715: prog3::DoubNum::DnumInput: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> C:\Users\Amr\Desktop\Lab3\x64\Debug\Lab3.exe
